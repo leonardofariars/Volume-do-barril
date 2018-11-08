@@ -49,6 +49,8 @@ public class InterfaceBarril extends javax.swing.JPanel {
         jRadioButton2 = new javax.swing.JRadioButton();
         jLabel7 = new javax.swing.JLabel();
 
+        setBackground(new java.awt.Color(0, 153, 51));
+
         jLabel1.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jLabel1.setText("Programa para o cálculo do volume do barril elíptico");
 
