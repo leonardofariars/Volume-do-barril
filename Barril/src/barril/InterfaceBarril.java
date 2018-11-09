@@ -66,6 +66,7 @@ public class InterfaceBarril extends javax.swing.JPanel {
 
         jLabel4.setText("Altura (h):");
 
+        jButton1.setBackground(new java.awt.Color(255, 51, 204));
         jButton1.setText("Calcular volume");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -174,7 +175,7 @@ public class InterfaceBarril extends javax.swing.JPanel {
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(jLabel7, javax.swing.GroupLayout.PREFERRED_SIZE, 54, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addGap(25, 25, 25)))
-                .addContainerGap(40, Short.MAX_VALUE))
+                .addContainerGap(38, Short.MAX_VALUE))
         );
     }// </editor-fold>//GEN-END:initComponents
 
