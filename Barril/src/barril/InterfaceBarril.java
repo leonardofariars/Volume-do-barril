@@ -60,7 +60,7 @@ public class InterfaceBarril extends javax.swing.JPanel {
 
         jTextField3.setText("0");
 
-        jLabel2.setText("Diâmetro da tampa (d):");
+        jLabel2.setText("Diâmetro da tampa e fundo (d):");
 
         jLabel3.setText("Diâmetro do centro (D):");
 
@@ -118,8 +118,8 @@ public class InterfaceBarril extends javax.swing.JPanel {
                                 .addGroup(layout.createSequentialGroup()
                                     .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                                         .addComponent(jLabel4)
-                                        .addComponent(jLabel3, javax.swing.GroupLayout.Alignment.TRAILING)
-                                        .addComponent(jLabel2, javax.swing.GroupLayout.Alignment.TRAILING))
+                                        .addComponent(jLabel2, javax.swing.GroupLayout.Alignment.TRAILING)
+                                        .addComponent(jLabel3))
                                     .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                                     .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
                                         .addComponent(jTextField3)
