@@ -10,6 +10,7 @@ import javax.swing.JFrame;
 /**
  *
  * @author Professor Xavier
+ * And Stan Lee (R.I.P.)
  */
 public class Principal {
     
