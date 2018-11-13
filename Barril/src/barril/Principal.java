@@ -9,7 +9,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author Xavier
+ * @author Professor Xavier
  */
 public class Principal {
     
