@@ -26,7 +26,7 @@ public class Barril {
     }
 
     public void Leitura() {
-
+/*
         Scanner entrada = new Scanner(System.in);
 
         System.out.println("Digite o diâmetro da tampa: ");
@@ -36,7 +36,7 @@ public class Barril {
         dc = entrada.nextDouble();
 
         System.out.println("Digite a altura do barril: ");
-        altura = entrada.nextDouble();
+        altura = entrada.nextDouble(); */
     }
 
     public void CalculaVolume() {
